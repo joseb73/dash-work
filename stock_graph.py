@@ -1,3 +1,5 @@
+# exercise to create a graph with Dash framework
+# using data gotten from panda_datareader
 import dash
 import dash_core_components as dcc
 import dash_html_components as html

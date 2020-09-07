@@ -1,3 +1,4 @@
+# exercise to get some data using panda
 import datetime
 import pandas_datareader.data as web
 
